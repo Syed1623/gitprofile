@@ -2,14 +2,14 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'Syed1623', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/portfolio/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -72,27 +72,25 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'syedarbaz1605@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'HTML',
+    'CSS',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Svelte',
     'MySQL',
-    'PostgreSQL',
+    'Java',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
+    'Flutter',
     'Tailwind',
+    'Bootstrap'
   ],
   experiences: [
     {
